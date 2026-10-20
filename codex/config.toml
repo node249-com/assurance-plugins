@@ -1,0 +1,4 @@
+# Añadir a ~/.codex/config.toml (Codex CLI / IDE). El token se lee de la variable de entorno, nunca va en el fichero.
+[mcp_servers.node249_assurance]
+url = "https://assurance.node249.com/mcp"
+bearer_token_env_var = "NODE249_ASSURANCE_TOKEN"

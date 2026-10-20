@@ -1,0 +1,8 @@
+{
+  "name": "node249-assurance",
+  "version": "1.0.0",
+  "description": "Manuales de buenas prácticas de desarrollo de NODE249 Assurance: el agente consulta el manual de cada tecnología antes de programar y pasa su lista de comprobación antes de terminar.",
+  "author": { "name": "NODE 249", "url": "https://assurance.node249.com" },
+  "homepage": "https://assurance.node249.com",
+  "keywords": ["buenas-practicas", "seguridad", "calidad", "mcp"]
+}

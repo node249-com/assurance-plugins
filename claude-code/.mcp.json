@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "node249-assurance": {
+      "type": "http",
+      "url": "https://assurance.node249.com/mcp",
+      "headers": { "Authorization": "Bearer ${NODE249_ASSURANCE_TOKEN}" }
+    }
+  }
+}

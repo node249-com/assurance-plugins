@@ -1,0 +1,17 @@
+{
+  "name": "node249",
+  "owner": {
+    "name": "NODE 249",
+    "url": "https://assurance.node249.com"
+  },
+  "plugins": [
+    {
+      "name": "node249-assurance",
+      "source": "./claude-code",
+      "description": "Manuales de buenas prácticas de NODE249 Assurance para Claude Code (skill + servidor MCP)."
+    }
+  ],
+  "metadata": {
+    "description": "Plugins de NODE 249 para Claude Code: manuales de buenas prácticas de NODE249 Assurance."
+  }
+}
